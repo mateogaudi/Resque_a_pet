@@ -1,0 +1,18 @@
+{
+  "name": "resque_a_pet",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000s\u0000q\u0000u\u0000e\u0000_\u0000a\u0000_\u0000p\u0000e\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000R\u0000e\u0000s\u0000q\u0000u\u0000e\u0000_\u0000a\u0000_\u0000p\u0000e\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mateogaudi",
+  "license": "ISC",
+  "keywords": [
+    "Mati600712"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "echo \"# Resque_a_pet\" >> README.md"
+  }
+}

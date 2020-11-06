@@ -1,16 +1,16 @@
 @font-face{
   font-family: 'Roboto', sans-serif;
-  src:url('asetts/fonts/Roboto');
+  src:url('../fonts/Roboto/Roboto-Regular.ttf');
   font-weight:400;
 }
 @font-face{
   font-family: 'Roboto', sans-serif;
-  src:url('asetts/fonts/Roboto');
+  src:url('../fonts/Roboto/Roboto-Medium.ttf');
   font-weight:500;
 }
 @font-face{
   font-family: 'Open Sans', sans-serif;
-  src:url('asetts/fonts/Open-sans');
+  src:url('../fonts/Open-sans/OpenSans-Regular.ttf');
   font-weight:400;
 }
 

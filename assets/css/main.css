@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+}
+.container{
+    
+}
+.fb{
+
+}
+.tw{
+
+}
+.ig{
+
+}
+.photo-header{
+    width:1366px;
+    height:747px;
+}
+.logo-header{
+    position:absolute;
+    left:0;
+    bottom:0;
+    height:212px;
+    width:207px;
+    margin:0 0 0 120px;
+}

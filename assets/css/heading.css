@@ -1,27 +1,45 @@
-.footer-description{
-
+.footer-description{  
+    font-size:12.8px;
+    font-weight:400;
+    color:#adcce9;
 }
-.largest-headline{
-
+.largest-heading{  
+    font-size:50px;
+    font-weight:400;
+    color:#111;
 }
 .main-footer-heading{
-
+    font-size:14px;
+    font-weight:400;
+    color:#fff;
 }
-.main-header{
-
+.main-heading{  
+    font-size:48px;
+    font-weight:400;
+    color:#111;
 }
-.main-small-description{
-
+.main-small-description{ 
+    font-size:16px;
+    font-weight:400;
+    color:#111;
 }
 .main-small-heading{
-
+    font-size:20px;
+    font-weight:400;
+    color:#111;
 }
 .medium-heading{
-
+    font-size:30px;
+    font-weight:400;
+    color:#111;
 }
-.small-description{
-
+.small-description{ 
+    font-size:16px;
+    font-weight:400;
+    color:#111;
 }
 .small-heading{
-
+    font-size:20px;
+    font-weight:500;
+    color:#111;
 }

@@ -1,9 +1,9 @@
-.footer-description{  /*Make some extra then one font change color on #fff*/
+.footer-description{  
     font-size:12.8px;
     font-weight:400;
     color:#adcce9;
 }
-.largest-headline{  /*Make some extra then one font roboto weight 500*/
+.largest-heading{  
     font-size:50px;
     font-weight:400;
     color:#111;
@@ -13,7 +13,7 @@
     font-weight:400;
     color:#fff;
 }
-.main-header{   /*Make some extra then one font roboto weight 500*/
+.main-heading{  
     font-size:48px;
     font-weight:400;
     color:#111;
@@ -33,7 +33,7 @@
     font-weight:400;
     color:#111;
 }
-.small-description{ /*Make some extra then one font change color on #fff */
+.small-description{ 
     font-size:16px;
     font-weight:400;
     color:#111;

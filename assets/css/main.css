@@ -1,28 +1,27 @@
 body{
     margin:0;
     padding:0;
+    color:#111;
 }
 .container{
-    
+    width:100%;
 }
-.fb{
-
+.header-social-media-wrapper{
+    display:flex;
 }
-.tw{
-
-}
-.ig{
-
-}
-.photo-header{
+.header-photo{
+   
     width:1366px;
     height:747px;
+    background-size:100%;
 }
-.logo-header{
+.header-logo{
+   
     position:absolute;
     left:0;
     bottom:0;
     height:212px;
     width:207px;
-    margin:0 0 0 120px;
+    margin-left:120px;
+    background-repeat: no-repeat;
 }

@@ -9,14 +9,16 @@ body{
 .header-social-media-wrapper{
     display:flex;
 }
-.header-photo{
-   
+.header-social-media-icon{
+    margin:0;
+}
+.header-photo{ 
     width:1366px;
     height:747px;
     background-size:100%;
+    background-image: url('../images/the-dog-white-and-brown.jpeg');
 }
 .header-logo{
-   
     position:absolute;
     left:0;
     bottom:0;
@@ -25,3 +27,10 @@ body{
     margin-left:120px;
     background-repeat: no-repeat;
 }
+
+
+
+
+
+
+

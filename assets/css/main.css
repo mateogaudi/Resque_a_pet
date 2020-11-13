@@ -9,7 +9,7 @@ body{
 .header-social-media-wrapper{
     display:flex;
     position:absolute;
-    bottom:60px;
+    bottom:120px;
     right:120px;
     color:#fff;
     font-size:32px;
@@ -20,19 +20,35 @@ body{
 }
 .header-photo{ 
     width:100%;
-    height:747px;
-    background-size:100%;
+    height:100vh;
+    background-size:cover;
+    background-position: center;
     background-image: url('../images/the-dog-white-and-brown.jpeg');
 }
 .header-logo{
     position:absolute;
     left:0;
-    bottom:0;
+    bottom:60px;
     height:212px;
     width:207px;
     margin-left:120px;
     background-repeat: no-repeat;
 }
+.hamburger-wrapper .hamburger{
+    top: 0%;
+    left:48%;
+    position:absolute; 
+}
+.hamburger-wrapper .hamburger-box{
+    width: 24px;
+    height: 24px;
+}
+.hamburger-wrapper .hamburger-inner{
+    width: 24px;
+    height: 2.38px;
+    background-color: #fff;
+}
+
 
 
 

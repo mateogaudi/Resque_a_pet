@@ -1,0 +1,15 @@
+.pets-love{
+    height:80vh;
+    width:100%;
+    display:flex;
+}
+.pets-love-wrapper{
+    border: 2px solid black;
+    width:33.33%;
+}
+.pets-love-photo{
+    background-image: url('../images/the-cat-british.jpeg');
+    background-size:100%;
+    width:380px;
+    height:446px;
+}

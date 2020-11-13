@@ -8,12 +8,18 @@ body{
 }
 .header-social-media-wrapper{
     display:flex;
+    position:absolute;
+    bottom:60px;
+    right:120px;
+    color:#fff;
+    font-size:32px;
 }
 .header-social-media-icon{
-    margin:0;
+    padding-left:20px;
+    box-sizing:border-box;
 }
 .header-photo{ 
-    width:1366px;
+    width:100%;
     height:747px;
     background-size:100%;
     background-image: url('../images/the-dog-white-and-brown.jpeg');

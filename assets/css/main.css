@@ -10,7 +10,7 @@ body{
     display:flex;
     position:absolute;
     bottom:120px;
-    right:120px;
+    right:140px;
     color:#fff;
     font-size:32px;
 }
@@ -31,7 +31,7 @@ body{
     bottom:60px;
     height:212px;
     width:207px;
-    left:120px;
+    left:165px;
 }
 .hamburger-wrapper .hamburger{
     top: 0%;

@@ -1,15 +1,42 @@
-.pets-love{
-    height:80vh;
+.pets-love-wrapper{
+    height:70vh;
     width:100%;
     display:flex;
 }
-.pets-love-wrapper{
-    border: 2px solid black;
+.pets-love-heading{
     width:33.33%;
+    height:80%;
+    margin:auto 0;
+    padding:30px 30px 30px 30px;
+}
+.pets-love-heading h4{
+    margin-bottom:20px;
+    padding-top:250px;
 }
 .pets-love-photo{
-    background-image: url('../images/the-cat-british.jpeg');
-    background-size:100%;
+    height:80%;
+    margin:auto 0;
+}
+.pets-love-photo img{
     width:380px;
-    height:446px;
+    height:100%;
+}
+.pets-love-description{
+    width:33.33%;
+    height:80%;
+    margin:auto 0;
+    padding:30px;
+}
+.pets-love-description-text-first{
+    padding-top:100px;
+}
+div{
+    margin-top:10px;
+}
+.pets-love-description-text-last{
+    margin-top:30px;
+}
+.inner-wrapper{
+    width:80%;
+    margin: 0 auto;
 }

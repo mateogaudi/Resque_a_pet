@@ -31,8 +31,8 @@ body{
     bottom:60px;
     height:212px;
     width:207px;
-    margin-left:120px;
-    background-repeat: no-repeat;
+    left:120px;
+    
 }
 .hamburger-wrapper .hamburger{
     top: 0%;

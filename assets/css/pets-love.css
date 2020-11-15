@@ -1,48 +1,38 @@
 .pets-love-wrapper{
-    height:70vh;
-    width:100%;
     display:flex;
+    height:90vh;
 }
 .pets-love-heading{
-    width:33.33%;
-    height:80%;
-    margin:auto 0;
-    padding:30px 30px 30px 30px;
+    width:30%;
+    padding:30px;
 }
 .pets-love-heading h4{
     margin-bottom:20px;
-    padding-top:250px;
     text-transform: uppercase;
     letter-spacing: 4px;
+    padding-top:300px;
+}
+.pets-love-photo img{
+    padding:75px 0 0 0;
 }
 .pets-love-photo{
-    overflow:hidden;
-    height:80%;
-    width:33.34%;
-    margin:auto 0;
+    width:40%;
 }
 img{
-    top:50%;
-    transform:translateY(0%);
     width:100%;
-    height:100%;
+    height:75%;
 }
 .pets-love-description{
-    width:33.33%;
-    height:80%;
-    margin:auto 0;
-    padding:30px;
+    width:30%;
+    padding:150px 30px 0 30px;
 }
-.pets-love-description-text-first{
-    padding-top:100px;
+.pets-love-description div{
+    margin-top:5px;
 }
-div{
-    margin-top:10px;
-}
-.pets-love-description-text-last{
-    margin-top:30px;
+.pets-love-description p{
+    padding-top:10px;
 }
 .inner-wrapper{
     width:80%;
-    margin: 0 auto;
+    margin:0 auto;
 }

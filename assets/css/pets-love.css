@@ -12,13 +12,19 @@
 .pets-love-heading h4{
     margin-bottom:20px;
     padding-top:250px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
 }
 .pets-love-photo{
+    overflow:hidden;
     height:80%;
+    width:33.34%;
     margin:auto 0;
 }
-.pets-love-photo img{
-    width:380px;
+img{
+    top:50%;
+    transform:translateY(0%);
+    width:100%;
     height:100%;
 }
 .pets-love-description{

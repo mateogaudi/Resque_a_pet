@@ -31,11 +31,11 @@
 }
 .main-small-heading{
     font-size:20px;
-    font-weight:400;
+    /*font-weight:400;*/
     color:#111;
     font-family: 'Roboto', sans-serif;
     src:url('../fonts/Roboto/Roboto-Regular.ttf');
-    font-weight:400;
+    font-weight:600;
 }
 .medium-heading{
     font-size:30px;

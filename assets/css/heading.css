@@ -15,7 +15,7 @@
 }
 .main-heading{  
     font-size:48px;
-    font-weight:400;
+    font-weight:600;
     color:#111;
 }
 .main-small-description{ 
@@ -25,12 +25,7 @@
 }
 .main-small-heading{
     font-size:20px;
-    font-weight:400;
-    color:#111;
-}
-.medium-heading{
-    font-size:30px;
-    font-weight:400;
+    font-weight:500;
     color:#111;
 }
 .small-description{ 
@@ -38,8 +33,4 @@
     font-weight:400;
     color:#111;
 }
-.small-heading{
-    font-size:20px;
-    font-weight:500;
-    color:#111;
-}
+

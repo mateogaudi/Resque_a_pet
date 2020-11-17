@@ -17,7 +17,6 @@
   position:absolute;
   top:50%;
   transform:translateY(-50%);
-  clip:rect(50px);
 }
 .pets-love-photo{
     width:40%;

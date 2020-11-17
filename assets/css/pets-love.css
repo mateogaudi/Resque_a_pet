@@ -1,0 +1,44 @@
+.pets-love-wrapper{
+    display:flex;
+    height:90vh;
+}
+.pets-love-heading{
+    width:30%;
+    padding:30px;
+}
+.pets-love-heading .largest-heading span{
+    display:block;
+}
+.pets-love-heading h4{
+    margin-bottom:20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding-top:300px;
+}
+.pets-love-photo img{
+  width:100%;
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+}
+.pets-love-photo{
+    width:40%;
+    height:100%;
+    overflow:hidden;
+    position:relative;
+}
+.pets-love-description{
+    width:30%;
+    padding:180px 30px 0 30px;
+}
+.pets-love-description .main-small-description p{
+    padding-top:10px;
+}
+.pets-love-description .main-small-description p span{
+    display:block;
+    padding-top:5px;
+}
+.inner-wrapper{
+    width:80%;
+    margin:0 auto;
+}

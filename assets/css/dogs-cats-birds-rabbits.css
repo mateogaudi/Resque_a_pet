@@ -4,25 +4,8 @@
     width:100%;
     display:flex;
     background:#e5e5e5;
-    position:relative;
 }
-.dogs-cats-birds-rabbits-wrapper::after{
-    position:absolute;
-    content:' ';
-    height:100%;
-    width:10%;
-    background:#e5e5e5;
-    left:-10%;
-}
-.dogs-cats-birds-rabbits-wrapper::before{
-    position:absolute;
-    content:' ';
-    height:100%;
-    width:10%;
-    background:#e5e5e5;
-    right:-10%;
-}
-.inner-wrapper-small-margin{
+.inner-wrapper.dogs-cats-birds-rabbits{
     width:85%;
     margin:0 auto;
 }
@@ -33,14 +16,13 @@
    top:10%;
    overflow: hidden;
 }
-.dogs-cats-birds-rabbits-rectangle-wrapper{
+.dogs-cats-birds-rabbits-box-wrapper{
     width:60%;
     height:100%;
     flex-wrap: wrap;
-    flex-direction: row;
     display:flex;
 }
-.dogs-cats-birds-rabbits-rectangle-up , .dogs-cats-birds-rabbits-rectangle-down{
+.dogs-cats-box , .birds-rabbits-box{
     width:50%;
     height:40%;
     background:#e5e5e5;
@@ -48,21 +30,28 @@
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align:center;
-    padding-top:80px;
-    box-sizing: border-box;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
-.dogs-cats-birds-rabbits-rectangle-up:hover , .dogs-cats-birds-rabbits-rectangle-down:hover{
+.dogs-cats-box:hover , .birds-rabbits-box:hover{
     background:#fff;
 }
-.dogs-cats-birds-rabbits-rectangle-up h4 , .dogs-cats-birds-rabbits-rectangle-down h4{
+.dogs-cats-box h4 , .birds-rabbits-box h4{
     margin-top:15px;
 }
-.dogs-cats-birds-rabbits-rectangle-up{
+.dogs-cats-box{
     top:10%;
 }
 .dogs-cats-birds-rabbits-photo img{
     height:100%;
     transform:translateX(-25%)
+}
+.birds-rabbits-icon-wrapper{
+
+}
+.dogs-cats-icon-wrapper{
+
 }
 
 

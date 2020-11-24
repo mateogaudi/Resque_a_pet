@@ -14,7 +14,6 @@
    height:80%;
    position:relative;
    top:10%;
-   overflow: hidden;
 }
 .dogs-cats-birds-rabbits-box-wrapper{
     width:60%;
@@ -22,7 +21,7 @@
     flex-wrap: wrap;
     display:flex;
 }
-.dogs-cats-box , .birds-rabbits-box{
+.dogs-cats-birds-rabbits-box{
     width:50%;
     height:40%;
     background:#e5e5e5;
@@ -34,24 +33,18 @@
     justify-content: center;
     align-items: center;
 }
-.dogs-cats-box:hover , .birds-rabbits-box:hover{
+.dogs-cats-birds-rabbits-box:hover{
     background:#fff;
 }
-.dogs-cats-box h4 , .birds-rabbits-box h4{
+.dogs-cats-birds-rabbits-box h4{
     margin-top:15px;
 }
-.dogs-cats-box{
+.dogs-cats-birds-rabbits-box.dogs-cats-box{ 
     top:10%;
 }
 .dogs-cats-birds-rabbits-photo img{
     height:100%;
-    transform:translateX(-25%)
-}
-.birds-rabbits-icon-wrapper{
-
-}
-.dogs-cats-icon-wrapper{
-
+    width:100%;
 }
 
 

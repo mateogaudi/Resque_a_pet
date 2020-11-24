@@ -62,11 +62,9 @@ body{
     height: 2.38px;
     background-color: #fff;
 }
-
-
-
-
-
-
-
-
+.inner-wrapper{
+    width:80%;
+    margin:0 auto;
+    display:flex;
+    justify-content: space-between;
+}

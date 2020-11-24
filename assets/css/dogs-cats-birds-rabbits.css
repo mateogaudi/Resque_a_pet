@@ -1,12 +1,9 @@
 
 .dogs-cats-birds-rabbits-wrapper{
     height:100vh;
-    width:100%;
     display:flex;
     background:#e5e5e5;
-}
-.inner-wrapper.dogs-cats-birds-rabbits{
-    width:85%;
+    width:100%;
     margin:0 auto;
 }
 .dogs-cats-birds-rabbits-photo{
@@ -32,6 +29,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    flex-flow: column;
 }
 .dogs-cats-birds-rabbits-box:hover{
     background:#fff;

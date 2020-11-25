@@ -20,7 +20,6 @@
 }
 .we-are-waiting-for-you-photo-wrapper{
     width:50%;
-    height:100%;
 }
 .we-are-waiting-for-you-photo{
     height:50%;
@@ -34,12 +33,10 @@
     width:100%;
     height:100%;
 }
-.we-are-waiting-for-you-photo-the-dog-winks-border-radius{
+.we-are-waiting-for-you-photo-the-dog-winks{
     width:300px;
     height:300px;
-}
-.we-are-waiting-for-you-photo-the-dog-winks-border-radius img{
-    border-radius:100%;
+    border-radius: 50%;
 }
 .we-are-waiting-for-you-photo  h4{
     text-transform: uppercase;
@@ -49,14 +46,14 @@
 .largest-heading.we-are-waiting-for-you , .small-description.we-are-waiting-for-you{
     color:#fff;
 }
-.small-description.we-are-waiting-for-you span{
+.we-are-waiting-for-you-wrapper .small-description span{
     margin-top: 5px;
     justify-content: center;
     align-items: center;
     flex-flow: column;
     display:flex;
 }
-.largest-heading.we-are-waiting-for-you{
+.largest-heading{
     margin-bottom:20px;
 }
 

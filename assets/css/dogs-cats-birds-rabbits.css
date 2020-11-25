@@ -4,13 +4,13 @@
     display:flex;
     background:#e5e5e5;
     width:100%;
-    margin:0 auto;
+    padding:50px 0;
+    box-sizing: border-box;
 }
 .dogs-cats-birds-rabbits-photo{
    width:40%;
-   height:80%;
+   height:100%;
    position:relative;
-   top:10%;
 }
 .dogs-cats-birds-rabbits-box-wrapper{
     width:60%;
@@ -19,7 +19,7 @@
 }
 .dogs-cats-birds-rabbits-box{
     width:50%;
-    height:40%;
+    height:50%;
     background:#e5e5e5;
     position:relative;
     text-transform: uppercase;

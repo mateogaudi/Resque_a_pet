@@ -14,7 +14,6 @@
 }
 .dogs-cats-birds-rabbits-box-wrapper{
     width:60%;
-    height:100%;
     flex-wrap: wrap;
     display:flex;
 }
@@ -34,15 +33,8 @@
 .dogs-cats-birds-rabbits-box:hover{
     background:#fff;
 }
-.dogs-cats-birds-rabbits-box h4{
-    margin-top:15px;
-}
-.dogs-cats-birds-rabbits-box.dogs-cats-box{ 
-    top:10%;
-}
 .dogs-cats-birds-rabbits-photo img{
     height:100%;
-    width:100%;
 }
 
 

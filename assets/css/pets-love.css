@@ -1,10 +1,13 @@
 .pets-love-wrapper{
     display:flex;
-    height:90vh;
+    padding:50px 0;
+    justify-content: space-between;
 }
 .pets-love-heading{
     width:30%;
-    padding:30px;
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 .pets-love-heading .largest-heading span{
     display:block;
@@ -13,32 +16,22 @@
     margin-bottom:20px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    padding-top:300px;
 }
 .pets-love-photo img{
-  width:100%;
-  position:absolute;
-  top:50%;
-  transform:translateY(-50%);
+    width:100%;
 }
 .pets-love-photo{
     width:40%;
-    height:100%;
-    overflow:hidden;
-    position:relative;
+    max-width:300px;
 }
-.pets-love-description{
+.pets-love-description-wrapper{
     width:30%;
-    padding:180px 30px 0 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    line-height:20px;
 }
-.pets-love-description .main-small-description p{
-    padding-top:10px;
+.pets-love-description-wrapper .main-small-description .pets-love-description-last{
+    margin-top:10px;
 }
-.pets-love-description .main-small-description p span{
-    display:block;
-    padding-top:5px;
-}
-.inner-wrapper{
-    width:80%;
-    margin:0 auto;
-}
+

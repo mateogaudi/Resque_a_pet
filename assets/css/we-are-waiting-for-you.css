@@ -1,0 +1,69 @@
+.we-are-waiting-for-you-wrapper{
+    display: flex;
+    width:100%;
+    height:120vh;
+
+}
+.we-are-waiting-for-you-photo-heading{
+    width:50%;
+    height:100%;
+    background-image: url('../images/the-dog-brown-and-mops.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-flow: column;
+    padding:25px 0;
+    box-sizing: border-box;
+}
+.we-are-waiting-for-you-photo-wrapper{
+    width:50%;
+}
+.we-are-waiting-for-you-photo{
+    height:50%;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+.we-are-waiting-for-you-photo img{
+    width:100%;
+    height:100%;
+}
+.we-are-waiting-for-you-photo-the-dog-winks{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+}
+.we-are-waiting-for-you-photo  h4{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-top: 20px;
+}
+.largest-heading.we-are-waiting-for-you , .small-description.we-are-waiting-for-you{
+    color:#fff;
+}
+.we-are-waiting-for-you-wrapper .small-description span{
+    margin-top: 5px;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    display:flex;
+}
+.largest-heading{
+    margin-bottom:20px;
+}
+
+
+
+
+
+
+
+
+
+
+

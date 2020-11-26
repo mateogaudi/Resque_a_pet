@@ -17,6 +17,7 @@ body{
 .header-social-media-icon{
     padding-left:20px;
     box-sizing:border-box;
+    cursor: pointer;
 }
 .header-social-media-icon i{
     transition: .25s ease all;

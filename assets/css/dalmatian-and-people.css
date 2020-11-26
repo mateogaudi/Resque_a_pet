@@ -1,0 +1,47 @@
+.dalmatian-and-people-wrapper{
+    display:flex;
+    padding:50px 0;
+    height:100vh;
+    width:100%;
+    box-sizing: border-box;
+}
+.dalmatian-and-people-box-wrapper{
+    width:60%;
+    height:100%;
+    display:flex;
+    flex-wrap: wrap;
+}
+.dalmatian-and-people-box{
+    width:50%;
+    height:50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+}
+.dalmatian-and-people-box h4{
+    letter-spacing: 4px;
+    text-transform:uppercase;
+    margin-bottom:15px;
+}
+.dalmatian-and-people-box p{
+    justify-content: center;
+    display:flex;
+    flex-flow:column;
+    text-align:center;
+    color:#808080;
+}
+.dalmatian-and-people-box h1{
+    margin-bottom:20px;
+}
+.dalmatian-and-people-box .main-small-description span{
+    line-height: 20px;
+}
+.dalmatian-and-people-wrapper-photo{
+    height:100%;
+    width:40%;
+}
+.dalmatian-and-people-wrapper-photo img{
+    width:100%;
+    height:100%;
+}

@@ -6,8 +6,6 @@
     box-sizing: border-box;
 }
 .dalmatian-and-people-box-wrapper{
-    width:60%;
-    height:100%;
     display:flex;
     flex-wrap: wrap;
 }
@@ -38,7 +36,6 @@
     line-height: 20px;
 }
 .dalmatian-and-people-wrapper-photo{
-    height:100%;
     width:40%;
 }
 .dalmatian-and-people-wrapper-photo img{

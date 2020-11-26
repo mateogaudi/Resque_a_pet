@@ -5,14 +5,11 @@
     height:100vh;
     width:100%;
     box-sizing: border-box;
-    z-index:5;
 }
 .rescue-a-pet-heading{
-    height:100%;
     width:30%;
     display:flex;
     justify-content:center;
-    align-items:left;
     flex-flow: column;
 }
 .rescue-a-pet-heading h4{
@@ -25,12 +22,10 @@
 }
 .rescue-a-pet-heading .main-small-description span{
     line-height: 20px;
-    displaY:block;
+    display:block;
 }
 .rescue-a-pet-photo{
-    height:100%;
     width:40%;
-    z-index:5;
 }
 .rescue-a-pet-photo img{
     height:100%;
@@ -38,11 +33,11 @@
 }
 .rescue-a-pet-item-photo{
     width:30%;
-    height:100%;
     background:#111;
     display:flex;
     justify-content: center;
     align-items:flex-end;
+    overflow: hidden;
 }
 .rescue-a-pet-item-photo img{
     width:120%;

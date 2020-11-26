@@ -1,0 +1,49 @@
+.rescue-a-pet-wrapper{
+    padding:50px 0;
+    background:#e5e5e5 ;
+    display: flex;
+    height:100vh;
+    width:100%;
+    box-sizing: border-box;
+    z-index:5;
+}
+.rescue-a-pet-heading{
+    height:100%;
+    width:30%;
+    display:flex;
+    justify-content:center;
+    align-items:left;
+    flex-flow: column;
+}
+.rescue-a-pet-heading h4{
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.rescue-a-pet-heading .largest-heading span{
+    display:block;
+}
+.rescue-a-pet-heading .main-small-description span{
+    line-height: 20px;
+    displaY:block;
+}
+.rescue-a-pet-photo{
+    height:100%;
+    width:40%;
+    z-index:5;
+}
+.rescue-a-pet-photo img{
+    height:100%;
+    width:100%;
+}
+.rescue-a-pet-item-photo{
+    width:30%;
+    height:100%;
+    background:#111;
+    display:flex;
+    justify-content: center;
+    align-items:flex-end;
+}
+.rescue-a-pet-item-photo img{
+    width:120%;
+}

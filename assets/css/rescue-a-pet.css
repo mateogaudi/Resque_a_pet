@@ -19,6 +19,7 @@
 }
 .rescue-a-pet-heading .largest-heading span{
     display:block;
+    margin-bottom:20px;
 }
 .rescue-a-pet-heading .main-small-description span{
     line-height: 20px;

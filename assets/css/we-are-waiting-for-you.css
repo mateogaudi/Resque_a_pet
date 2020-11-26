@@ -36,6 +36,8 @@
 .we-are-waiting-for-you-photo-the-dog-winks{
     width:300px;
     height:300px;
+}
+.we-are-waiting-for-you-photo-the-dog-winks img{
     border-radius: 50%;
 }
 .we-are-waiting-for-you-photo  h4{
@@ -43,7 +45,7 @@
     letter-spacing: 4px;
     margin-top: 20px;
 }
-.largest-heading.we-are-waiting-for-you , .small-description.we-are-waiting-for-you{
+.we-are-waiting-for-you-photo-heading .largest-heading , .small-description.we-are-waiting-for-you{
     color:#fff;
 }
 .we-are-waiting-for-you-wrapper .small-description span{
@@ -52,9 +54,10 @@
     align-items: center;
     flex-flow: column;
     display:flex;
+    color:#fff;
 }
-.largest-heading{
-    margin-bottom:20px;
+.we-are-waiting-for-you-photo-heading .largest-heading{
+    margin-bottom: 20px;
 }
 
 

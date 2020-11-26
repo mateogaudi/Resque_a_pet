@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 .dalmatian-and-people-box-wrapper{
+    width:60%;
     display:flex;
     flex-wrap: wrap;
 }

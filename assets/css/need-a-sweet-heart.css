@@ -1,0 +1,12 @@
+.need-a-sweet-heart-wrapper{
+    height:80vh;
+    width:100%;
+    background:#E0e7ef;
+}
+.need-a-sweet-heart-photo-heading{
+    background-image: url('../images/the-dog-white-and-black.jpg');
+    width:100%;
+    height: 100%;
+    background-size: cover;
+    background-position-y:50%;
+}

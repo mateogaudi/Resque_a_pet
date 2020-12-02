@@ -4,11 +4,11 @@
     background-image: url('../images/the-dog-white-and-black.jpg');
     background-size: cover;
     background-position:center left;
-    display:flex;
+    display: flex;
     align-items: center;
 }
-.need-a-sweet-heart-box{
-    width:100%;
+.need-a-sweet-heart-wrapper .inner-wrapper{
+    justify-content: flex-end;
 }
 .need-a-sweet-heart-box .small-description span{
     display: block;

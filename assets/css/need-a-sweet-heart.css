@@ -1,0 +1,46 @@
+.need-a-sweet-heart-wrapper {
+    height:80vh;
+    width:100%;
+    background-image: url('../images/the-dog-white-and-black.jpg');
+    background-size: cover;
+    background-position:center left;
+    display: flex;
+    align-items: center;
+}
+.need-a-sweet-heart-wrapper .inner-wrapper{
+    justify-content: flex-end;
+}
+.need-a-sweet-heart-box .small-description span{
+    display: block;
+    line-height: 20px;
+}
+.need-a-sweet-heart-box p{
+    text-align: right;
+    margin-bottom: 20px;
+}
+.need-a-sweet-heart-box h1{
+    text-align: right;
+    margin-bottom: 20px;
+}
+.need-a-sweet-heart-box-text-area{
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+}
+.need-a-sweet-heart-text-area{
+    width:380px;
+    height:45px;
+    font-size:16px;
+    padding-left:15px;
+    box-sizing: border-box;
+}
+.need-a-sweet-heart-bottom{
+    background:#111;
+    width:120px;
+    line-height:45px;
+    color:#fff;
+    text-align:center;
+}
+.need-a-sweet-heart-bottom:hover{
+    background:#222;
+}
